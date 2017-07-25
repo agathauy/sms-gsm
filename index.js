@@ -1,0 +1,1 @@
+return module.exports = require('./lib/gsm.js')
