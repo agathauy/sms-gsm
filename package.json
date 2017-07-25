@@ -1,6 +1,6 @@
 {
     "name": "sms-gsm",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A gsm modem library for Node JS to send and receive text messges.",
     "author": "Agatha Uy",
     "email": "agathauy@gmail.com",
