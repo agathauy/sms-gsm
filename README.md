@@ -1,6 +1,6 @@
 sms-gsm
 ========
-A gsm modem library for Node JS to send and receive text messges.
+A gsm modem library for Node JS to send and receive text messages.
 
 Warning, in alpha stages.
 
